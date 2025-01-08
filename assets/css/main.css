@@ -171,7 +171,7 @@ h6 {
 
   .header~main .hero {
     margin-left: -160px;
-    width: 100vw;
+    width: 98.6vw;
   }
 }
 
@@ -1450,6 +1450,8 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
+
+
 
 /*--------------------------------------------------------------
 # Starter Section Section
